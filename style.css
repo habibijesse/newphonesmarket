@@ -1,0 +1,64 @@
+body {
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    background-image: url('pexels-maor-attias-4205461.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333;
+    margin: 20px;
+}
+
+header {
+    background-color: #01204e; /* Header background color #01204e */
+    padding: 10px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Abril Fatface', cursive; /* Use the Abril Fatface font here */
+}
+
+#slideshow {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+#message {
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 18px;
+    background-color: #f85525; /* Message background color #f85525 */
+    padding: 10px;
+    color: white;
+}
+
+#fun-facts {
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 16px;
+}
+
+#playlist {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+#gift {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#contact-form {
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 16px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #028391; /* Footer background color #028391 */
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+}
+
+
